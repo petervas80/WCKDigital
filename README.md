@@ -1,2 +1,2 @@
 # WCKDigital
-Application - Recognition Handwriting 
+Application - Handwriting Recognition 
